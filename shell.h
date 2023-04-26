@@ -141,7 +141,7 @@ int _strcmp(char *, char *);
 char *starts_with(const char *, const char *);
 char *_strcat(char *, char *);
 
-/* string1.c */
+/* strings.c */
 char *_strcpy(char *, char *);
 char *_strdup(const char *);
 void _puts(char *);
@@ -182,7 +182,7 @@ int _myexit(info_t *);
 int _mycd(info_t *);
 int _myhelp(info_t *);
 
-/* builtin1.c */
+/* builtin_1.c */
 int _myhistory(info_t *);
 int _myalias(info_t *);
 
