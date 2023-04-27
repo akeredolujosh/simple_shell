@@ -1,5 +1,9 @@
 #include "shell.h"
 
+/** Authors: Tsitsi Ndhlovu <tsitsindhlovu211@gmail.com>
+ * Akeredolu Olasunkanmi Joshua <akeredolujosh@gmail.com>
+*/
+
 /**
   * get_history File - Retrieves the file containing the history.
   * @info: A structure containing parameters.
