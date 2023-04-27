@@ -1,5 +1,9 @@
 #include "shell.h"
 
+/** Authors: Tsitsi Ndhlovu <tsitsindhlovu211@gmail.com>
+ *Akeredolu Olasunkanmi Joshua <akeredolujosh@gmail.com>
+*/
+
 /**
   * get_environ - returns a copy of the string array of our environ
   * @info: a struct containing potential arguments to maintain constant function prototype
