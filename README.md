@@ -1,3 +1,4 @@
+#An ALX Group Task Done by:Tsitsi Ndhlovu <tsitsindhlovu211@gmail.com> and Akeredolu Olasunkanmi Joshua <akeredolujosh@gmail.com>
 This is a group project by ALX on Shell programming. The aim was to build a simple shell named hsh that emulates the Bash shell using C language.
 
 The project was completed using Shell, C language, and Betty linter. We were tasked with some general requirements to follow, including compiling all files on Ubuntu 20.04 LTS using gcc with options such as -Wall, -Werror, -Wextra, -pedantic, and -std=gnu89. We also had to ensure that every file ended with a new line, and use Betty style which was checked using betty-style.pl and betty-doc.pl.
