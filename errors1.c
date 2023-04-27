@@ -1,5 +1,9 @@
 #include "shell.h"
 
+/** Authors: Tsitsi Ndhlovu <tsitsindhlovu211@gmail.com>
+ * Akeredolu Olasunkanmi Joshua <akeredolujosh@gmail.com>
+*/
+
 /**
   * _erratoi - function that converts
   * a string to an integer
