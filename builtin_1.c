@@ -1,5 +1,7 @@
 #include "shell.h"
-
+/** Authors: Tsitsi Ndhlovu <tsitsindhlovu211@gmail.com>
+  *Akeredolu Olasunkanmi Joshua <akeredolujosh@gmail.com>
+*/
 /**
   * _myhistory: displays the list of previously
   * executed commands, with each command on
